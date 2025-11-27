@@ -77,8 +77,8 @@ I create content about:
 ---
 
 ## 📫 Contact
-- LinkedIn: completat ulterior
-- Email: optional
+- LinkedIn:https://www.linkedin.com/in/ioan-daniel-s-6868918/
+- Email: danyelstan@yahoo.com
 
 ---
 

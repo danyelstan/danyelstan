@@ -80,6 +80,7 @@ I create content about:
 - LinkedIn:https://www.linkedin.com/in/ioan-daniel-s-6868918/
 - Email: danyelstan@yahoo.com
 
+
 ---
 
 ⭐ If you're looking for a Business Analyst with banking + tech + execution — I’m open to collaborations and remote roles.

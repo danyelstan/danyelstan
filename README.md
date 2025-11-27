@@ -12,7 +12,7 @@ I worked on international projects with ING Hubs, Temenos, and several major ban
 ### 🟦 Business Analysis (Banking & Financial Services)
 - Gathering and documenting requirements (functional & non-functional)
 - Product design: building products and testing instances of them
-- Migaration: Migrate from legacy into new systems
+- Migration: Migrate from legacy into new systems
 - Payments: SEPA, local payments and customised payment
 - Designing business flows and end-to-end customer journeys
 - Writing User Stories, Acceptance Criteria, BRDs, FSDs, CSDs

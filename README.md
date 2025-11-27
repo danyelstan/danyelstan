@@ -37,7 +37,7 @@ I worked on international projects with ING Hubs, Temenos, and several major ban
 ---
 
 ## 🟩 Technical Skills
-- SQL (complex joins, data validation, migration scripts)
+- SQL (select and update queries, data validation, migration scripts)
 - Automation, data checks, API calls
 - API Design: REST flows, payloads, error handling
 - Data Modelling: entities, relationships, banking schemas
